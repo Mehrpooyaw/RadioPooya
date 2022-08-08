@@ -1,0 +1,31 @@
+PODS:
+  - Kingfisher (7.2.4)
+  - KMPNativeCoroutinesAsync (0.12.4):
+    - KMPNativeCoroutinesCore (= 0.12.4)
+  - KMPNativeCoroutinesCore (0.12.4)
+  - radioJavanShared (1.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - KMPNativeCoroutinesAsync
+  - radioJavanShared (from `../radioJavanShared`)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - KMPNativeCoroutinesAsync
+    - KMPNativeCoroutinesCore
+
+EXTERNAL SOURCES:
+  radioJavanShared:
+    :path: "../radioJavanShared"
+
+SPEC CHECKSUMS:
+  Kingfisher: 2457be2121734e69e54a2312ecc0150eb9ae70b3
+  KMPNativeCoroutinesAsync: 1c20efb3b77f09433e7372fc316c5281b41b7c16
+  KMPNativeCoroutinesCore: 4aa2a7cbc0414f2834ade6ba3f2d8626fee3094e
+  radioJavanShared: b673ba5f2766c57a6a8127fd9da76b61563397e8
+
+PODFILE CHECKSUM: 63dfe32e929087e93a6cc4c766eb3140b8937924
+
+COCOAPODS: 1.11.3

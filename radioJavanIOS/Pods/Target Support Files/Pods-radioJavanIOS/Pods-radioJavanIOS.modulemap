@@ -1,0 +1,6 @@
+framework module Pods_radioJavanIOS {
+  umbrella header "Pods-radioJavanIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

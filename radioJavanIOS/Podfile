@@ -1,0 +1,8 @@
+target 'radioJavanIOS' do
+  use_frameworks!
+  platform :ios, '15.0'
+  pod 'radioJavanShared', :path => '../radioJavanShared'
+  pod 'KMPNativeCoroutinesAsync'
+  pod 'Kingfisher'
+
+end

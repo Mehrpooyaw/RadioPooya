@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-radioJavanIOS/Pods-radioJavanIOS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KMPNativeCoroutinesAsync/KMPNativeCoroutinesAsync.framework
+${BUILT_PRODUCTS_DIR}/KMPNativeCoroutinesCore/KMPNativeCoroutinesCore.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${PODS_ROOT}/../../radioJavanShared/build/cocoapods/framework/radioJavanShared.framework
