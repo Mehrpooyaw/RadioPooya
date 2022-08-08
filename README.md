@@ -1,8 +1,7 @@
 # RadioPooya
-A simple media player in KMM
+A simple media player for Android and iOS written in Kotlin and Swift. (KMM SDK)
 
-Written in Kotlin and Swift.
-Technologies and libraries: 
+## Technologies and libraries: 
 Jetpack Compose, SwiftUI, Koin, Ktor, ExoPlayer, Serialization and ...
 iOS 1                      |  iOS 2                    | Android 1                  
 :-------------------------:|:-------------------------:|:-------------------------:
